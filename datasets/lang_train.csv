@@ -1,0 +1,15 @@
+2-letter,Language,Ethnologue,Classification,train
+am,Amharic,na,"Afro-Asiatic, Semitic, South, Ethiopian, South, Transversal, Amharic-Argobba",5984
+dz,AlgerianArabic,na,"Afro-Asiatic, Semitic, Central, South, Arabic",1651
+ha,Hausa ,hau,"Afro-Asiatic, Chadic, West, A, A.1",14172
+ig,Igbo,na,"Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Igboid, Igbo",10192
+kr,Kinyarwanda,kin,"Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, J, Ruanda-Rundi (D.61)",3302
+ma,"MoroccanArabic/Darija,",na,"Afro-Asiatic, Semitic, Central, South, Arabic",5583
+or,Oromo,orm,"Afro-Asiatic, Cushitic, East, Oromo",
+pcm,Nigerian_Pidgin,na,English Creole,5121
+pt,MozambicanPortuguese,na,"Creole, Portuguese based",3063
+sw,Swahili,na,"Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, G, Swahili (G.42)",1810
+tg,Tigrinya,tig,"Afro-Asiatic, Semitic, South, Ethiopian, North",
+ts,Xitsonga,tso,"Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, S, Tswa-Rhonga (S.53)",804
+twi,Twi,aka,"Niger-Congo, Atlantic-Congo, Volta-Congo, Kwa, Nyo, Potou-Tano, Tano, Central, Akan",3481
+yo,Yoruba,yor,"Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Defoid, Yoruboid, Edekiri",8522
