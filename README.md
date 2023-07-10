@@ -4,6 +4,10 @@ Repository with our code used for fine-tuning and evaluation for [my contributio
 
 The contribution evolved from a number of abandoned approaches. We have tried to share what was relevant for the final submission, and hope that the code is self-sufficient and readable. Please raise an issue if you find that something is missing or not in line with the reports in the paper.
 
+## Datasets per language family / group
+The training data per language category were prepared with [dataset_prep_2.ipynb](dataset_prep_2.ipynb) and are stored [here](datasets/train_group_final).  
+
+
 ## Links and citations
 ```
 @misc{rønningstad2023uio,
