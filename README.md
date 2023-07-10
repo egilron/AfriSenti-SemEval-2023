@@ -1,11 +1,13 @@
 # SemEval-2023 Task 12: Multilingual fine-tuning for sentiment classification in low-resource languages
 
-Repository with our code used for fine-tuning and evaluation for [my contribution](https://arxiv.org/abs/2304.14189) towards the SemEval-2023 Shared Task 12.
+Repository with our code used for fine-tuning and evaluation for [my contribution](https://arxiv.org/abs/2304.14189) towards the SemEval-2023 Shared Task 12.  
+The main script for fine-tuning is [xlmt_finetuning3.py](xlmt_finetuning3.py)  
 
 The contribution evolved from a number of abandoned approaches. We have tried to share what was relevant for the final submission, and hope that the code is self-sufficient and readable. Please raise an issue if you find that something is missing or not in line with the reports in the paper.
 
 ## Datasets per language family / group
 The training data per language category were prepared with [dataset_prep_2.ipynb](dataset_prep_2.ipynb) and are stored [here](datasets/train_group_final).  
+
 
 
 ## Links and citations
